@@ -1,0 +1,6 @@
+'============ Билетирование Чаек ============'
+
+{
+  "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2MTYyODg1MiwiaWF0IjoxNzYxMDI0MDUyLCJqdGkiOiJlY2NkYTRiOGY4OTM0MzhiYjM0YTc1ODY4YTk5NDc4NyIsInVzZXJfaWQiOiI0In0.KpGnxvE7ATtjX8U47XqM9LwfopiZhrttNZhriNQ2iKs",
+  "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzYxMDI0OTUyLCJpYXQiOjE3NjEwMjQwNTIsImp0aSI6IjQyMTdiYzEzYTRhYTQwMGRiNjEzMDBlNGQwYWVlOGQwIiwidXNlcl9pZCI6IjQifQ.70fSIXrSxUVORtqPHJj4k_1UZbBRGmmVTxLbOojOe74"
+}
